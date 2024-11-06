@@ -6,7 +6,40 @@ This repository contains a selection of my academic projects developed during my
 
 The projects are organized by language and type:
 
-
+- **academic-projects**
+  - **C-C++-projects**
+    - C++-bakery-system
+    - C++-car-management-system
+    - C++-collections-with-templates
+    - C++-database-management
+    - C++-emergency-supply-management-system
+    - C++-graduates-students-list-generator
+    - C++-health-info-account
+    - C++-inheritance-practicing-structure
+    - C++-label-creator-2
+    - C++-label-creator
+    - C++-manufacturing-line
+    - C++-media-collection-management
+    - C++-pasenger-management-system-2
+    - C++-passenger-management-system
+    - C++-portfolio-creation
+    - C++-postal-code-report
+    - C++-restaurant-management-system
+    - C++-song-collection-management
+    - C++-stocking-management-system
+    - C++-toy-ordering-system
+    - C++-using-chrono
+    - C-bombing-game
+    - C-coffee-shop
+    - C-grocery-shopping
+    - C-pet-clinic-appointment-system
+    - C-pet-supply-shopping
+    - C-shirt-sales
+    - C-well-being-logger
+    - C-wish-list
+  - **python-projects**
+  - **masters-NLP-text-processing-functions**
+    - features_and_corpus_processing.py
 
 Each subfolder contains source code files (`.c`, `.cpp`, `.h`, `.py`). These files represent core functionality but may exclude sensitive or specific assignment details to protect the integrity of academic guidelines.
 
