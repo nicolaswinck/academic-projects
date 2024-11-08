@@ -64,6 +64,6 @@ python filename.py
 * C++ Projects: Object-oriented programming, STL, advanced data structures, and algorithms.
 * Python Projects: NLP processing algorithms, data analysis, and basic machine learning algorithms.
 
-##Disclaimer
+## Disclaimer
 
 These projects are solely for educational purposes and skill demonstration. Direct usage in coursework or assignments is discouraged, as it may violate academic policies.
